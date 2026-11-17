@@ -21,6 +21,12 @@
 
 ![Color Your Reality architecture: the right hand draws a contour, YOLO11n-seg names it from the headset camera image, the left hand colors the shape, the state is saved on the headset; the APK reaches the headset fleet through Wagon and Meta HMS](docs/architecture.svg)
 
+<details><summary>French version</summary>
+
+![Architecture de Color Your Reality : la main droite dessine un contour, YOLO11n-seg le nomme à partir de l'image de la caméra du casque, la main gauche colorie la forme, l'état est enregistré dans le casque ; l'APK rejoint la flotte de casques par Wagon et Meta HMS](docs/architecture.fr.svg)
+
+</details>
+
 *Diagram and app labels are in French.*
 
 ## Status

@@ -21,6 +21,12 @@
 
 ![Architecture de Color Your Reality : la main droite dessine un contour, YOLO11n-seg le nomme à partir de l'image de la caméra du casque, la main gauche colorie la forme, l'état est enregistré dans le casque ; l'APK rejoint la flotte de casques par Wagon et Meta HMS](docs/architecture.svg)
 
+<details><summary>Diagramme en français</summary>
+
+![Architecture de Color Your Reality : la main droite dessine un contour, YOLO11n-seg le nomme à partir de l'image de la caméra du casque, la main gauche colorie la forme, l'état est enregistré dans le casque ; l'APK rejoint la flotte de casques par Wagon et Meta HMS](docs/architecture.fr.svg)
+
+</details>
+
 ## État
 
 - **Casques.** La version 1.5.8 est publiée sur la flotte de casques Quest de l'école par Meta Horizon Managed Services, l'APK hébergée sur le partage de fichiers de l'école (Wagon). La version 1.5.9 (étiquettes des mains) est sur un seul casque de test. État d'octobre 2026.
