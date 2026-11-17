@@ -4,15 +4,15 @@
 
 **Dessiner le contour d'un objet réel dans un casque Meta Quest : l'application le nomme, puis on le colorie.** Tout tourne dans le casque, reconnaissance de l'objet comprise.
 
-[![Contour d'un lit, nom, coloriage, étape par étape sur l'architecture (cliquer pour la vidéo complète)](docs/demo.gif)](https://drive.google.com/file/d/1zLNwWatbaI9cSe1nty7TUV8rVXNCQdTr/view)
+[![Vraie exécution dans le Meta XR Simulator, légendes en anglais : tracé autour d'une chaise et d'un canapé, nom donné par YOLO, toucher qui colorie, architecture qui s'allume étape par étape (cliquer pour la vidéo complète)](docs/demo.webp)](https://drive.google.com/file/d/1zLNwWatbaI9cSe1nty7TUV8rVXNCQdTr/view)
 
 <details><summary>Version française</summary>
 
-[![Contour d'un lit, nom, coloriage, étape par étape sur l'architecture (cliquer pour la vidéo complète)](docs/demo.fr.gif)](https://drive.google.com/file/d/1avJORNWjeER0pkDFkrrs19hgJAGHAO3R/view)
+[![Vraie exécution dans le Meta XR Simulator : la main droite trace autour d'une chaise et d'un canapé, YOLO les nomme, la main gauche touche chaque forme qui se colorie, pendant que l'architecture s'allume étape par étape (cliquer pour la vidéo complète)](docs/demo.fr.webp)](https://drive.google.com/file/d/1avJORNWjeER0pkDFkrrs19hgJAGHAO3R/view)
 
 </details>
 
-*Tracer le contour d'un lit, le nommer, le colorier, dans le Meta XR Simulator. [Vidéo complète (1:16)](https://drive.google.com/file/d/1avJORNWjeER0pkDFkrrs19hgJAGHAO3R/view)*
+*Tracer autour d'une chaise et d'un canapé, les nommer, les toucher pour les colorier, dans le Meta XR Simulator (salon). [Vidéo complète (1:20)](https://drive.google.com/file/d/1avJORNWjeER0pkDFkrrs19hgJAGHAO3R/view)*
 
 ## Ce qu'on fait avec
 
