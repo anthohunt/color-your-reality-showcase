@@ -4,7 +4,13 @@
 
 **Dessiner le contour d'un objet réel dans un casque Meta Quest : l'application le nomme, puis on le colorie.** Tout tourne dans le casque, reconnaissance de l'objet comprise.
 
+[![Contour d'un lit, nom, coloriage, étape par étape sur l'architecture (cliquer pour la vidéo complète)](docs/demo.gif)](https://drive.google.com/file/d/1zLNwWatbaI9cSe1nty7TUV8rVXNCQdTr/view)
+
+<details><summary>Animation en français</summary>
+
 [![Contour d'un lit, nom, coloriage, étape par étape sur l'architecture (cliquer pour la vidéo complète)](docs/demo.fr.gif)](https://drive.google.com/file/d/1avJORNWjeER0pkDFkrrs19hgJAGHAO3R/view)
+
+</details>
 
 *Tracer le contour d'un lit, le nommer, le colorier, dans le Meta XR Simulator. [Vidéo complète (1:16)](https://drive.google.com/file/d/1avJORNWjeER0pkDFkrrs19hgJAGHAO3R/view)*
 

@@ -6,6 +6,12 @@
 
 [![Drawing around a bed, naming it and coloring it, step by step on the architecture (click for the full video)](docs/demo.gif)](https://drive.google.com/file/d/1zLNwWatbaI9cSe1nty7TUV8rVXNCQdTr/view)
 
+<details><summary>French version</summary>
+
+[![Contour d'un lit, nom, coloriage, étape par étape sur l'architecture (cliquer pour la vidéo complète)](docs/demo.fr.gif)](https://drive.google.com/file/d/1avJORNWjeER0pkDFkrrs19hgJAGHAO3R/view)
+
+</details>
+
 *Drawing around a bed, naming it, coloring it, in the Meta XR Simulator. [Full video (1:16)](https://drive.google.com/file/d/1zLNwWatbaI9cSe1nty7TUV8rVXNCQdTr/view)*
 
 ## Using it
