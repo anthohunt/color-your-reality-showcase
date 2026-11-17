@@ -33,7 +33,7 @@
 
 </details>
 
-*Diagram and app labels are in French.*
+*App labels are in French.*
 
 ## Status
 
