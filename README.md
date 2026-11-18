@@ -4,15 +4,15 @@
 
 **Draw the outline of a real object in a Meta Quest headset: the app names it, then you color it in.** Everything runs on the headset, object recognition included.
 
-[![Real run in the Meta XR Simulator: the right hand traces around a chair and a sofa, YOLO names them, the left hand touches each shape and it fills with color, while the architecture lights up step by step (click for the full video)](docs/demo.webp)](https://drive.google.com/file/d/1zLNwWatbaI9cSe1nty7TUV8rVXNCQdTr/view)
+![Real run in the Meta XR Simulator: the right hand traces around a chair and a sofa, YOLO names them, the left hand touches each shape and it fills with color, while the architecture lights up step by step](docs/demo.webp)
 
 <details><summary>French version</summary>
 
-[![Vraie exécution dans le Meta XR Simulator : la main droite trace autour d'une chaise et d'un canapé, YOLO les nomme, la main gauche touche chaque forme qui se colorie, pendant que l'architecture s'allume étape par étape (cliquer pour la vidéo complète)](docs/demo.fr.webp)](https://drive.google.com/file/d/1avJORNWjeER0pkDFkrrs19hgJAGHAO3R/view)
+![Vraie exécution dans le Meta XR Simulator : la main droite trace autour d'une chaise et d'un canapé, YOLO les nomme, la main gauche touche chaque forme qui se colorie, pendant que l'architecture s'allume étape par étape](docs/demo.fr.webp)
 
 </details>
 
-*Tracing around a chair and a sofa, naming them, touching them to color them in, in the Meta XR Simulator (living room). [Full video (1:20)](https://drive.google.com/file/d/1zLNwWatbaI9cSe1nty7TUV8rVXNCQdTr/view)*
+*Tracing around a chair and a sofa, naming them, touching them to color them in, in the Meta XR Simulator (living room).*
 
 ## Using it
 
